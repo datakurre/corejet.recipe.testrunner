@@ -1,0 +1,9 @@
+Changelog
+=========
+
+
+1.0.0 (2012-05-26)
+------------------
+
+- Copied recipe from corejet.testrunner to fix the recipe requiring lxml
+  [datakurre]

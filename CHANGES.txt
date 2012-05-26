@@ -1,5 +1,0 @@
-Changelog
-=========
-
-- Copied recipe from corejet.testrunner
-  [datakurre]

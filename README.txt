@@ -50,4 +50,3 @@ to find a CoreJet XML file at the path specified after the comma.
 .. _zc.recipe.testrunner: http://pypi.python.org/pypi/zc.recipe.testrunner
 .. _corejet.core: http://pypi.python.org/pypi/corejet.core
 .. _corejet.testrunner: http://pypi.python.org/pypi/corejet.testrunner
-
